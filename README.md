@@ -17,7 +17,7 @@ bozo
 Add the following to your `:dependencies` in `project.clj`:
 
 ```
-    [bozo/bozo "0.1.0"]
+    [bozo/bozo "0.1.1"]
 ```
 
 Then, you can call the optimizer as follows:
