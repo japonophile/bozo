@@ -1,4 +1,4 @@
-(defproject bozo "0.1.1"
+(defproject bozo "0.2.0-SNAPSHOT"
   :description "L-BFGS optimization for Clojure"
   :url "http://github.com/japonophile/bozo"
   :license {:name "Apache License, Version 2.0"
